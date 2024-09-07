@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+#regfrm{
+    background-color: aquamarine;
+    padding: 10px;
+    width: 400px;
+}
+.divfrm{
+    padding: 10px;
+}
+input,select{
+    float: right;
+    width: 60%;
+}
+#reg{
+    padding:5px;
+    background-color: rgb(112, 255, 45);
+    border-radius: 5px;
+}
